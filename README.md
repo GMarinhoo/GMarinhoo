@@ -17,7 +17,7 @@ Gosto de transformar regras de negócios complexas em código limpo e funcional.
   <br>
 
   **📫 Contato**<br>
-  <a href="https://www.linkedin.com/in/gabriel-marinho-bezerra-068177349/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-marinho-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:gabrielmarinhobezerra@gmail.com">
