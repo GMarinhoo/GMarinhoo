@@ -9,4 +9,4 @@ Gosto de transformar regras de negócios complexas em código limpo e funcional.
 
 ---
 🛠 **Tech Stack:** Java | Spring Boot | SQL | POO
-📫 **Contato:** [Seu LinkedIn] | [Seu Email]
+📫 **Contato:** [https://www.linkedin.com/in/gabriel-marinho-bezerra-068177349/] | [gabrielmarinhobezerra@gmail.com]
