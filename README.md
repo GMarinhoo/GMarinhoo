@@ -8,12 +8,20 @@ Gosto de transformar regras de negócios complexas em código limpo e funcional.
 - 🚛 **GynLogFrota:** Solução para logística e gestão de frotas.
 
 ---
-🛠 **Tech Stack:** Java | Spring Boot | SQL | POO
-📫 **Contato:** <div align="center">
+---
+<div align="center">
+  
+  **🛠 Tech Stack**<br>
+  Java | Spring Boot | SQL | POO
+
+  <br>
+
+  **📫 Contato**<br>
   <a href="https://www.linkedin.com/in/gabriel-marinho-bezerra-068177349/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:gabrielmarinhobezerra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+
 </div>
